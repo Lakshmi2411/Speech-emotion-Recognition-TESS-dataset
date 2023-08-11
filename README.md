@@ -1,5 +1,5 @@
 # Speech-emotion-Recognition-TESS-dataset
-oice-based emotion recognition involves analyzing speech signals to identify the underlying emotional states of the speaker. There are several types of plots that can be used to visualize and understand the emotional characteristics of speech data. Here are some common plots used in voice-based emotion recognition:
+Voice-based emotion recognition involves analyzing speech signals to identify the underlying emotional states of the speaker. There are several types of plots that can be used to visualize and understand the emotional characteristics of speech data. Here are some common plots used in voice-based emotion recognition:
 
 Waveform Plot: The waveform plot represents the amplitude of the audio signal over time. It provides a basic visualization of the raw audio and how it varies with time. Emotion-related features such as pitch, loudness, and speaking rate can be observed from the waveform plot.
 
